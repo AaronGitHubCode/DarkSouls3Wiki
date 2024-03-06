@@ -17,7 +17,7 @@
         android:theme="@style/Theme.DarkSouls3Wiki"
         tools:targetApi="34">
         <activity
-            android:name=".activities.MainAppActivity"
+            android:name=".activities.AppActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
